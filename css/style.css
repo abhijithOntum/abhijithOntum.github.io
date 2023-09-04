@@ -64,7 +64,7 @@ input:focus{
 }
 
 h1,h2,h3,h4,h5,h6 {
-    margin-left: 20%;
+    margin-left: 10%;
     margin-right: 10%;
 }
 h1 {
@@ -2443,13 +2443,14 @@ i::before,i::after{
    display: inline-block;
 }
 .feature-item img {
-	max-width: 290px;
+	max-width: 90px;
 }
 .feature-item h4 {
 	font-weight: 600;
 	color: #222222;
 	font-size: 1.125rem;
 	margin-bottom: 10px;
+   margin-top: 10px;
 }
 .feature-item .icon {
 	background: #00bcd4;
