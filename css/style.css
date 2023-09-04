@@ -483,7 +483,7 @@ ul.social-icons.white li a:focus{
 
 /*-----Buttons-----*/
 .button {
-   position: absolute;
+   position: relative;
    display: inline-block;
    font-size: 13px;
    padding: 1rem 2.5rem;
