@@ -64,10 +64,11 @@ input:focus{
 }
 
 h1,h2,h3,h4,h5,h6 {
-    margin: 0;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 h1 {
-    font-size: 3.75rem;
+    font-size: 3.50rem;
 }
 h2 {
     font-size: 3.5rem;
