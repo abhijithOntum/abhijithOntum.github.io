@@ -483,7 +483,7 @@ ul.social-icons.white li a:focus{
 
 /*-----Buttons-----*/
 .button {
-   position: relative;
+   position: absolute;
    display: inline-block;
    font-size: 13px;
    padding: 1rem 2.5rem;
@@ -502,7 +502,7 @@ ul.social-icons.white li a:focus{
    border-radius: 0;
 }
 .btnprimary, .btnprimary-alt{
-    background: #000000;
+    background: #00bcd4;
 }
 .btnsecondary{
    background: #643094;
